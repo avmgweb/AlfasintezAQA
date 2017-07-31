@@ -1,0 +1,6 @@
+POM\Alfasintez\AlfasintezMainPageEn.class
+POM\BasePage.class
+logger\WebEventListener.class
+POM\Alfasintez\AlfasintezMainPageRu.class
+driver\Driver.class
+POM\Alfasintez\FormData.class
